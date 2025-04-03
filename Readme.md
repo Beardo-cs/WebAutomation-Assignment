@@ -57,7 +57,7 @@ Ensure the following dependencies are installed:
 ### Running the Tests
 1. Clone the repository:
    ```sh
-   git clone [GitHub Repository Link]
+   git clone https://github.com/Beardo-cs/WebAutomation-Assignment
    ```
 2. Navigate to the project directory:
    ```sh
@@ -73,7 +73,7 @@ Ensure the following dependencies are installed:
    ```
 5. Open the generated Cucumber report:
    ```sh
-   open target/cucumber-reports/cucumber-reports.html
+   open target/cucumber-reports.html
    ```
 
 ## GitHub Repository
@@ -82,4 +82,4 @@ The automation code is committed to GitHub with multiple commits for better trac
 
 ## Proof of Execution
 A screen recording of test execution is provided for reference:
-- **Screen Recording:** [Link to Video]
+- **Screen Recording:** https://drive.google.com/file/d/14DWnyCd-JcrjkgKYCiBQ5W5jJ38J2q7_/view?usp=sharing
